@@ -1,0 +1,12 @@
+# vim stuff
+.sw*
+
+
+# python stuff
+__pycache__/
+*.pyc
+
+# virtual env
+activate
+venv/
+
